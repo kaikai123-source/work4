@@ -23,7 +23,7 @@ int main() {
 			
 			imshow("src", src);
 			
-			waitKey(0);
+			waitKey(30);
 		}
 
 
